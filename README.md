@@ -5,7 +5,7 @@ I am a Business Analyst with 10 years of experience in data analysis and I have 
 - 🌱 I’m currently working as an Analyst and learning **Machine Learning**.
 - 🔂 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about **Python**, **Data Analysis**, or **Data Science**.
-- 📩 Reach me at: **anilkumar.b1729@gmail.com**
+- 🤝 Reach me at: **[LinkedIn](https://www.linkedin.com/in/anilkumar1729/)**
 
 ## 🎓 My Tech Stack
 
